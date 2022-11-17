@@ -1,0 +1,8 @@
+file_format: "1"
+id: kb_4
+name: KB_4
+type: shield
+url: https://github.com/yinxianwei/kb_4
+requires: [pro_micro]
+features:
+  - keys

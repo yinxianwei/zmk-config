@@ -1,0 +1,9 @@
+# Copyright (c) 2021 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+if SHIELD_KB_4
+
+config ZMK_KEYBOARD_NAME
+	default "KB_4"
+
+endif
